@@ -1,4 +1,3 @@
-```markdown
 YTP+ Deluxe Edition — Java (Old Windows) — Source / Release
 ================================================================
 
